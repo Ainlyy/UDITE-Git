@@ -7,3 +7,5 @@ def func1():
 
 def feature2():
     print("Feature 2 is implemented")
+def feature1():
+    print("Feature 1 is implemented")
