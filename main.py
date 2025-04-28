@@ -3,3 +3,7 @@ def func2():
 
 def func1():
     print("Function 1 is called")
+
+
+def feature1():
+    print("Feature 1 is implemented")
